@@ -18,6 +18,7 @@ import com.phoenixdev.nudge.ui.screens.home.HomeScreen
 import com.phoenixdev.nudge.ui.viewmodel.AuthViewModel
 import com.phoenixdev.nudge.ui.viewmodel.TaskViewModel
 
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun NavGraph(
     navController: NavHostController,
