@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light Theme Colors (Microsoft To Do inspired) -->
+    <color name="primary_light">#6C63FF</color>
+    <color name="secondary_light">#FF6B9D</color>
+    <color name="background_light">#F7F7F7</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="text_primary_light">#1F1F1F</color>
+    <color name="text_secondary_light">#71717A</color>
+    
+    <!-- Dark Theme Colors -->
+    <color name="primary_dark">#8B82FF</color>
+    <color name="secondary_dark">#FF8FA0</color>
+    <color name="background_dark">#0F0F1E</color>
+    <color name="surface_dark">#1A1A2E</color>
+    <color name="text_primary_dark">#E4E4E7</color>
+    <color name="text_secondary_dark">#A1A1AA</color>
+    
+    <!-- Task Colors -->
+    <color name="task_color_default">#6C63FF</color>
+    <color name="task_color_red">#E74C3C</color>
+    <color name="task_color_blue">#4A90E2</color>
+    <color name="task_color_green">#2ECC71</color>
+    <color name="task_color_purple">#9B59B6</color>
+    <color name="task_color_orange">#F39C12</color>
+    <color name="task_color_pink">#FF6B9D</color>
+    <color name="task_color_cyan">#1ABC9C</color>
+    
+    <!-- Priority Colors -->
+    <color name="priority_high">#FF5252</color>
+    <color name="priority_medium">#FFC107</color>
+    <color name="priority_low">#4CAF50</color>
+</resources>
